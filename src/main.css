@@ -1,0 +1,15 @@
+.name {
+  background-color: red;
+}
+
+.heading {
+  color: blue;
+  font-family: Arial, sans-serif;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border-radius: 50px;
+}
