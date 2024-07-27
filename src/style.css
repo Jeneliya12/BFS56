@@ -1,0 +1,41 @@
+.aboutme {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid rgb(234, 216, 195);
+  background-color: rgb(196, 232, 244);
+}
+.projects {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid rgb(234, 216, 195);
+  background-color: #d9f6d9;
+}
+
+.projectone {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid rgb(234, 216, 195);
+}
+
+.projecttwo {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid rgb(234, 216, 195);
+}
+
+.projectthree {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid rgb(234, 216, 195);
+}
+
+.contact {
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(242, 196, 203);
+}
+header {
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(247, 247, 242);
+}
