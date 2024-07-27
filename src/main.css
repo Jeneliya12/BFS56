@@ -1,33 +1,9 @@
-.container {
+body {
+  margin: 0px;
+}
+.box {
   background-color: red;
-}
-
-.sectionone {
-  background-color: blue;
-}
-
-.sectiontwo {
-  background-color: green;
-}
-
-.boxone {
-  background-color: aqua;
   margin: 10px;
-}
-.boxtwo {
-  background-color: aquamarine;
-}
-.headingone {
-  background-color: yellow;
   padding: 10px;
-  margin: 10px;
-}
-.paragraphone {
-  background-color: tomato;
-}
-.headingtwo {
-  background-color: aliceblue;
-}
-.paragraphtwo {
-  background-color: violet;
+  border: 2px solid black;
 }
