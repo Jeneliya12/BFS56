@@ -1,15 +1,33 @@
-.name {
+.container {
   background-color: red;
 }
 
-.heading {
-  color: blue;
-  font-family: Arial, sans-serif;
+.sectionone {
+  background-color: blue;
 }
 
-.box {
-  height: 100px;
-  width: 100px;
-  background-color: red;
-  border-radius: 50px;
+.sectiontwo {
+  background-color: green;
+}
+
+.boxone {
+  background-color: aqua;
+  margin: 10px;
+}
+.boxtwo {
+  background-color: aquamarine;
+}
+.headingone {
+  background-color: yellow;
+  padding: 10px;
+  margin: 10px;
+}
+.paragraphone {
+  background-color: tomato;
+}
+.headingtwo {
+  background-color: aliceblue;
+}
+.paragraphtwo {
+  background-color: violet;
 }
